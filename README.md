@@ -1,4 +1,4 @@
-# clase22-08-22
+# clase23-08-22
 
 ### Ejercicio práctico
 Una empresa de envios nos pide que calculemos el precio del envio elegido por el usuario al final de una compra. Se sabe que el precio base del envío es $400, y se pueden elegir 2 tipos de envios:
