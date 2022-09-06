@@ -1,7 +1,6 @@
 # clase23-08-22
 
 ### Ejercicio práctico
-Una empresa de envios nos pide que calculemos el precio del envio elegido por el usuario al final de una compra. Se sabe que el precio base del envío es $400, y se pueden elegir 2 tipos de envios:
-
-- Opción 1: envío regular (10 días hábiles), con 15% de recarga.
-- Opción 2: envío express (2 días hábiles), con 45% de recarga.
+Para realizar un testeo una empresa nos pide que realicemos una implementación donde con una caja con unos pesos fijos realicemos diferentes extracciones hasta que el monto que se requiera sea mayor a lo que hay en la caja. Para llevar un registro se debe mostrar:
+  - El monto total extraido
+  - La cantidad de extracciones 
